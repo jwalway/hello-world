@@ -1,0 +1,4 @@
+It is now 7/2/2019 at 10:03 p.m. central time
+
+I am playing around with the GIT repository, to figure out what the various commands do.
+
